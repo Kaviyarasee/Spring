@@ -10,6 +10,6 @@ public class StudentBean {
 		this.name = name; 
 	} 
 	public void displayInfo(){
-		System.out.println("Hello: "+ name);
+		System.out.println("Hello "+ name + ";)");
 	} 
 }
